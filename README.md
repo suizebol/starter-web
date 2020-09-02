@@ -13,3 +13,6 @@ pgjkfdagdgda;
 
 ## How To Contribute
 gjsaghds;agr'ag
+
+### Copyright:
+Foo
