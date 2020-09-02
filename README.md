@@ -12,7 +12,7 @@ pgjkfdagdgda;
 ## Deployment
 
 ## How To Contribute
-gjsaghds;agr'ag
+Please fork this repository and issue pull requests
 
 ### Copyright:
 Foo
