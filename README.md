@@ -7,7 +7,7 @@ This is a sample web project
 fohsgksgj kgjrop'gjra'klgjar'kgjrkgj'gmk'relgh'nragj
 
 ## Purpose
-pgjkfdagdgda;
+This is an updated purpose - rebasing exmaple
 
 ## Deployment
 
