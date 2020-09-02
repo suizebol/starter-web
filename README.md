@@ -5,7 +5,7 @@ More changes from myfeature brach too
 
 ## Introduction
 
-fohsgksgj kgjrop'gjra'klgjar'kgjrkgj'gmk'relgh'nragj
+A new intro
 
 ## Purpose
 This is an updated purpose - rebasing exmaple
