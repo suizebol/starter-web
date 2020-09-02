@@ -16,4 +16,4 @@ This is an updated purpose - rebasing exmaple
 Please fork this repository and issue pull requests
 
 ### Copyright:
-Foo
+2014 GTI Training
